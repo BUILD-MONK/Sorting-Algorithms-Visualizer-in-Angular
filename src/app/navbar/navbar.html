@@ -1,0 +1,9 @@
+{{isInProgress ? 'Sorting in progress...' : 'Click to sort'}}
+<ul [class.disabled]="isInProgress">
+  <li (click)="makeSorting('merg')">Merg sort</li>
+  <li (click)="makeSorting('quick')">Quick sort</li>
+  <li (click)="makeSorting('bubble')">Bubble sort</li>
+  <li (click)="makeSorting('heap')">Heap sort</li>
+  <li (click)="makeSorting('re-define')" style="float:right">Shuffle Array</li>
+  <li (click)="ChangeSize(slider.value)"><input #slider type="range" min="3" value="150" max="150" style="background: white; cursor: po inter;"></li>
+</ul>

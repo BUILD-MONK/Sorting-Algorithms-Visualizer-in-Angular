@@ -8,8 +8,7 @@ An interactive and educational **sorting visualizer** built with **Angular 20**,
 
 ## 🌐 Live Demo
 
-👉 **[View Demo on GitHub Pages](https://build-monk.github.io/Sorting-Algorithms-Visualizer-in-Angular/)**  
-> (Make sure to replace the link with your actual GitHub Pages URL)
+👉 **[View Demo on GitHub Pages](https://build-monk.github.io/Sorting-Algorithms-Visualizer-in-Angular/)**
 
 ---
 
